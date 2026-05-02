@@ -24,7 +24,7 @@ This project builds and evaluates a **Mongolian verb classification model** that
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. Data Collection
 - Gathered text from real-world Mongolian articles and literature
@@ -39,7 +39,7 @@ The model takes a Mongolian sentence as input and classifies each token and iden
 
 ---
 
-## 📂 Dataset Arrangement
+## Dataset Arrangement
 
 Two datasets were used for training and evaluation:
 
@@ -59,7 +59,7 @@ Two datasets were used for training and evaluation:
 
 ---
 
-## 📊 Evaluation Results
+## Evaluation Results
 
 Model performance was assessed using **Accuracy, Precision, and F1 Score** across **10 random seeds** to ensure robustness.
 
