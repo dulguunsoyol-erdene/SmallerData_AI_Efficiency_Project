@@ -1,0 +1,143 @@
+sentence,label
+Тэр ном уншсан,Other OTHER PAST
+Надад хэлсэн, OTHER PAST
+Өглөөний мэнд асуусан, OTHER OTHER PAST
+Yг хэлсэн, OTHER PAST
+Муу ярьсан, OTHER PAST
+Үүнийг зарсан, OTHER PAST
+Сэтгэлийн хөдөлгөөнийг илэрхийсэн, other other past
+Би учир шалтгаангүй дуралсан, other other OTHER past
+Хөдөө амьтдын амьдралд нөлөөлсөн, other other OTHER PAST
+Захируулах холбоогоор холбогдсон, other OTHER PAST
+Сүүлчийн өгүүлбэр нь бусад өгүүлбэрээ захирсан, other other OTHER OTHER other past
+Би гэртээ орсон, other other PAST
+Ээжтэйгээ өссөн, other past
+Далд хийсээр тов хийсэн, other other other past
+Би түүнд хайртайгаа хэлсэн, other other OTHER past
+Хайрлах тухай бодол төрсөн, other other other past
+энэ шийдлийг нэвтрүүлэх хэрэгтэй гэдгийг тодотгосон, other other OTHER OTHER other past
+сүүлийн хөрөнгө оруулалт гэдгийг Ж.Хуанг онцолсон, other other OTHER OTHER other past
+OpenAI-ийн гол өрсөлдөгч Anthropic стартапад хөрөнгө оруулсан, other other OTHER OTHER other other past
+Тэд бидний чипүүдийг ашиглахаар болсон, other other OTHER other past
+сая ширхэг хувьцааг 5 тэрбум доллароор худалдан авсан, other other OTHER OTHER other other other past
+Компанид хоёр тэрбум долларын хөрөнгө оруулсан, other other OTHER OTHER other past
+бид өөрсдөө хэн нэгнийг дээрэлхэхгүй байсан,other other OTHER OTHER other past
+судалгаа хийдэг дадалтай болчихсон, other other OTHER past
+маш нуцахтай уншсан байх хэрэгтэй санагдсан, other other OTHER OTHER other past
+Сайн хүмүүс амьдралд амжилттай явдаг гэдгийг ойлгосон, other other OTHER OTHER other other past
+Тэрхүү судалгааны үр дүнд Нобелийн шагнал авсан, other other OTHER OTHER other other past
+Чи өдөр бүр иддэг,OTHER OTHER OTHER HABITUAL
+Тэрээр ажилдаа ирдэг, OTHER OTHER HABITUAL
+Тэр сайн ярьдаг, OTHER OTHER HABITUAL
+Сайнханд хичээлээ ухамсартай хийдэг, OTHER OTHER OTHER HABITUAL
+Би тоглоом тоголдог, OTHER OTHER HABITUAL
+Тэр ном уншдаг, OTHER OTHER HABITUAL
+Би өдөр бүр иддэг, OTHER OTHER OTHER HABITUAL
+Гоё харагддаг, OTHER HABITUAL
+Дуучин дуулдаг, OTHER HABITUAL
+Тэр ном уншдаг, OTHER OTHER HABITUAL
+Би өдөр бүр нэг ном уншдаг, OTHER OTHER OTHER other other HABITUAL
+Би хоол зардаг, OTHER OTHER HABITUAL
+Орчин үеийн уран зохиол уншдаг, other other OTHER OTHER HABITUAL
+Боб ресторан ажиллуулдаг, other OTHER HABITUAL
+Би дурангаа бариад суучихдаг, other other other HABITUAL
+Сурагч нар хичээл дээр хоол идэж болдог, other other OTHER OTHER other other HABITUAL
+Ажилтан ажилдаа  өдөр бүр очдог, other other OTHER OTHER HABITUAL
+Хүмүүс унтдаг, other HABITUAL
+Тэр ажилаа хийдэг, other other HABITUAL
+Тэд хоол иддэг, other other HABITUAL
+Би өгүүлбэрийн утга олдог, other other other HABITUAL
+Тэр түүх сонирхдог, other other HABITUAL
+Би гэртэй ирдэг,  other other HABITUAL
+шууд бусаар хамгийн их нөлөөтэй байдаг, OTHER OTHER OTHER other other HABITUAL
+үе тэнгийн дээрэлхлийг нийгмийн ноцтой асуудал гэж үздэг, OTHER OTHER OTHER other other other other HABITUAL
+дэс дараалалтай загварыг баримталдаг, OTHER OTHER OTHER HABITUAL
+сургуулийн орчны асуудал гэж үздэг, OTHER OTHER OTHER other HABITUAL
+бусдыг ойлгох чадварт чухал нөлөө үзүүлдэг, OTHER OTHER OTHER other other HABITUAL
+мэтгэлцэх боломж олддог, other other HABITUAL
+их сургуулийн судлаач эрдэмтэд байдаг, OTHER OTHER OTHER other HABITUAL
+хичээлийг сонирхолтойгоор тайлбарлаж чаддаг, OTHER OTHER OTHER HABITUAL
+хэсэгчлээд ойлгож болдог, OTHER OTHER HABITUAL
+тунгаах миний тархийг тэлж байгаа мэт санагддаг,  OTHER OTHER OTHER other other other HABITUAL
+итгэл үнэмшилтэй хүмүүс нэг дор цугларч бясалгадаг,  OTHER OTHER OTHER other other other HABITUAL
+аз ирдэг гэдэгт итгэдэг, OTHER OTHER OTHER HABITUAL
+Би явна,OTHER FUTURE
+Тэрээр хоол хийнэ, OTHER OTHER FUTURE
+Онц сурна, OTHER FUTURE
+Хэевон хөөрхөн харагдна, OTHER OTHER FUTURE
+Mонгол хэл сурна, OTHER OTHER FUTURE
+Тэд Монгол хэл сурна, Other other OTHER FUTURE
+Солонгос хэл сурна, OTHER OTHER FUTURE
+Vолейбол тоглоно, OTHER FUTURE
+Тэрийг зарна, OTHER FUTURE
+Тэр нэг дов толгой дээр гарна, other other other other other FUTURE
+Тэрийг сольж байрлуулна, other other FUTURE
+Өвсөр насныхан хэт их согтууруулах зүйлс ууна, other other OTHER OTHER other other future
+Aхимаг насныхны хэмжээ багасан, other other OTHER FUTURE
+Монголчуудын хэл зүй сурна, other other OTHER FUTURE
+Инээдэгийг эр дагана, other other future
+Би өгүүлбэр бүтээнэ, other other FUTURE
+Ноён хүнд тушаана, other other FUTURE
+Тэдний гэр лүү орно, other other other FUTURE
+Бүүдэн  сарны нулимс чив чимээгүй мэлмэрнэ, other other other other other FUTURE
+Бүгээн морьтой өвгөн салхи сөрөн гэлдэрнэ, other other other other other FUTURE
+Од мичидийн тохиол сарны нулимсыг барна, other other other other other FUTURE
+Хүүдээ өгнө, other future
+Дагуулаад ирэхдээ ирнэ, other other FUTURE
+би өөдөөс гүйнэ, other other FUTURE
+хүчтэй нөлөө үзүүлж байдгийг харж болно, other other other other other FUTURE
+Энэ гуравдугаар сараас эхлэн худалдаанд гарна, other other other other other FUTURE
+Тэр технологийн дэд бүтцийг шийдэхэд хамтарч ажиллана, other other other other other other FUTURE
+Энэхүү эрэлтийг хангах чиглэлд хамтарна, other other other other FUTURE
+Маркетингийн кампанит ажлын бүтээмжийг нэмэгдүүлэх AI агентууд хөгжүүлнэ, other other other other other other other FUTURE
+Эхний ээлжид энэ зунаас Лос-Анжелес болон Сан-Франциско хотуудад нэвтрүүлнэ, other other other other other other other other FUTURE
+Nokia-ийн хувьцааг худалдан авч 6G технологийг хамтран хөгжүүлнэ, other other other other other other other FUTURE
+хамгийн тодоор буулгаж авах тухайг тооцоолно, other other other other other FUTURE
+Кампус хооронд алхах зуураа цэвэр агаар амьсгалаад сайхан байна, other other OTHER OTHER other other other other FUTURE
+хүрсэн үр дүнгээ багийнхантайгаа хуваалцана, other other OTHER other FUTURE
+энэ төслөөр хар нүхний бичлэгийг авах болно, other other other other other OTHER FUTURE
+Яасан гоё юм бэ, OTHER OTHER OTHER OTHER
+Би тэрэнд хайртай, OTHER OTHER OTHER
+Хамгийн гоё юм бэ, OTHER OTHER OTHER OTHER
+Нар сар хоёр юу вэ, OTHER OTHER OTHER OTHER other
+Учир шалтгаантай байдал юм, other other OTHER OTHER
+Надтай хамт байсанд баярлалаа, OTHER OTHER OTHER other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

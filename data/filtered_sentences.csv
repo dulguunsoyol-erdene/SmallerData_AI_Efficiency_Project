@@ -1,0 +1,437 @@
+sentence,label
+Үүний биелэл нь Pinecone Prep Program.,OTHER OTHER OTHER OTHER OTHER OTHER
+Pinecone-той нэгдэж энэ тоог ихэсгэх зорилготой байна.,OTHER OTHER OTHER OTHER OTHER OTHER FUTURE
+Өртөг нь 20 сая доллар.,OTHER OTHER OTHER OTHER OTHER
+Яагаад Artemis чухал вэ гэж үү?,OTHER OTHER OTHER OTHER OTHER OTHER
+Гэвч ISS хөгширч байна.,OTHER OTHER OTHER FUTURE
+Гэтэл бидэнд төсөв байтугай төлөвлөгөө ч алга.,OTHER OTHER OTHER OTHER OTHER OTHER OTHER
+Одоо физикийн хичээлтэй.,OTHER OTHER OTHER
+Үд дундыг бизнесийнхээ санааг хөгжүүлэхэд зориулдаг.,OTHER OTHER OTHER OTHER OTHER HABITUAL
+Одоо жинхэнэ судалгааны ажил эхэлж байна.,OTHER OTHER OTHER OTHER OTHER FUTURE
+"Даалгавруудаа дуусгаад, оройн уулзалтдаа бэлдэнэ.",OTHER OTHER OTHER OTHER FUTURE
+Хэцүү хүн гэж яг хэнийг хэлэх вэ?,OTHER OTHER OTHER OTHER OTHER OTHER OTHER
+"Тоо, статистик ч үүнийг гэрчилдэг.",OTHER OTHER OTHER OTHER HABITUAL
+Үүнийг хөзөртэй зүйрлэж болох юм.,OTHER OTHER OTHER OTHER OTHER
+Гэхдээ асуудал зөвхөн цусанд болж өрнөөд дуусчихгүй.,OTHER OTHER OTHER OTHER OTHER OTHER OTHER
+Тэр ном уншсан.,OTHER OTHER PAST
+Өглөөний мэнд асуусан.,OTHER OTHER PAST
+Сэтгэлийн хөдөлгөөнийг илэрхийсэн.,OTHER OTHER PAST
+Би учир шалтгаангүй дуралсан.,OTHER OTHER OTHER PAST
+Хөдөө амьтдын амьдралд нөлөөлсөн.,OTHER OTHER OTHER PAST
+Захируулах холбоогоор холбогдсон.,OTHER OTHER PAST
+Сүүлчийн өгүүлбэр нь бусад өгүүлбэрээ захирсан.,OTHER OTHER OTHER OTHER OTHER PAST
+Би гэртээ орсон.,OTHER OTHER PAST
+Далд хийсээр тов хийсэн.,OTHER OTHER OTHER PAST
+Би түүнд хайртайгаа хэлсэн.,OTHER OTHER OTHER PAST
+Хайрлах тухай бодол төрсөн.,OTHER OTHER OTHER PAST
+энэ шийдлийг нэвтрүүлэх хэрэгтэй гэдгийг тодотгосон.,OTHER OTHER OTHER OTHER OTHER PAST
+сүүлийн хөрөнгө оруулалт гэдгийг Ж.Хуанг онцолсон.,OTHER OTHER OTHER OTHER OTHER PAST
+OpenAI-ийн гол өрсөлдөгч Anthropic стартапад хөрөнгө оруулсан.,OTHER OTHER OTHER OTHER OTHER OTHER PAST
+Тэд бидний чипүүдийг ашиглахаар болсон.,OTHER OTHER OTHER OTHER PAST
+Компанид хоёр тэрбум долларын хөрөнгө оруулсан.,OTHER OTHER OTHER OTHER OTHER PAST
+бид өөрсдөө хэн нэгнийг дээрэлхэхгүй байсан.,OTHER OTHER OTHER OTHER OTHER PAST
+судалгаа хийдэг дадалтай болчихсон.,OTHER OTHER OTHER PAST
+маш нуцахтай уншсан байх хэрэгтэй санагдсан.,OTHER OTHER OTHER OTHER OTHER PAST
+Сайн хүмүүс амьдралд амжилттай явдаг гэдгийг ойлгосон.,OTHER OTHER OTHER OTHER OTHER OTHER PAST
+Тэрхүү судалгааны үр дүнд Нобелийн шагнал авсан.,OTHER OTHER OTHER OTHER OTHER OTHER PAST
+Чи өдөр бүр иддэг.,OTHER OTHER OTHER HABITUAL
+Тэрээр ажилдаа ирдэг.,OTHER OTHER HABITUAL
+Тэр сайн ярьдаг.,OTHER OTHER HABITUAL
+Сайнханд хичээлээ ухамсартай хийдэг.,OTHER OTHER OTHER HABITUAL
+Би тоглоом тоголдог.,OTHER OTHER HABITUAL
+Тэр ном уншдаг.,OTHER OTHER HABITUAL
+Би өдөр бүр иддэг.,OTHER OTHER OTHER HABITUAL
+Тэр ном уншдаг.,OTHER OTHER HABITUAL
+Би өдөр бүр нэг ном уншдаг.,OTHER OTHER OTHER OTHER OTHER HABITUAL
+Би хоол зардаг.,OTHER OTHER HABITUAL
+Орчин үеийн уран зохиол уншдаг.,OTHER OTHER OTHER OTHER HABITUAL
+Боб ресторан ажиллуулдаг.,OTHER OTHER HABITUAL
+Би дурангаа бариад суучихдаг.,OTHER OTHER OTHER HABITUAL
+Сурагч нар хичээл дээр хоол идэж болдог.,OTHER OTHER OTHER OTHER OTHER OTHER HABITUAL
+Ажилтан ажилдаа  өдөр бүр очдог.,OTHER OTHER OTHER OTHER HABITUAL
+Тэр ажилаа хийдэг.,OTHER OTHER HABITUAL
+Тэд хоол иддэг.,OTHER OTHER HABITUAL
+Би өгүүлбэрийн утга олдог.,OTHER OTHER OTHER HABITUAL
+Тэр түүх сонирхдог.,OTHER OTHER HABITUAL
+Би гэртэй ирдэг.,OTHER OTHER HABITUAL
+шууд бусаар хамгийн их нөлөөтэй байдаг.,OTHER OTHER OTHER OTHER OTHER HABITUAL
+дэс дараалалтай загварыг баримталдаг.,OTHER OTHER OTHER HABITUAL
+сургуулийн орчны асуудал гэж үздэг.,OTHER OTHER OTHER OTHER HABITUAL
+бусдыг ойлгох чадварт чухал нөлөө үзүүлдэг.,OTHER OTHER OTHER OTHER OTHER HABITUAL
+мэтгэлцэх боломж олддог.,OTHER OTHER HABITUAL
+их сургуулийн судлаач эрдэмтэд байдаг.,OTHER OTHER OTHER OTHER HABITUAL
+хичээлийг сонирхолтойгоор тайлбарлаж чаддаг.,OTHER OTHER OTHER HABITUAL
+хэсэгчлээд ойлгож болдог.,OTHER OTHER HABITUAL
+тунгаах миний тархийг тэлж байгаа мэт санагддаг.,OTHER OTHER OTHER OTHER OTHER OTHER HABITUAL
+итгэл үнэмшилтэй хүмүүс нэг дор цугларч бясалгадаг.,OTHER OTHER OTHER OTHER OTHER OTHER HABITUAL
+аз ирдэг гэдэгт итгэдэг.,OTHER OTHER OTHER HABITUAL
+Тэрээр хоол хийнэ.,OTHER OTHER FUTURE
+Хэевон хөөрхөн харагдна.,OTHER OTHER FUTURE
+Mонгол хэл сурна.,OTHER OTHER FUTURE
+Тэд Монгол хэл сурна.,OTHER OTHER OTHER FUTURE
+Солонгос хэл сурна.,OTHER OTHER FUTURE
+Тэр нэг дов толгой дээр гарна.,OTHER OTHER OTHER OTHER OTHER FUTURE
+Тэрийг сольж байрлуулна.,OTHER OTHER FUTURE
+Өвсөр насныхан хэт их согтууруулах зүйлс ууна.,OTHER OTHER OTHER OTHER OTHER OTHER FUTURE
+Aхимаг насныхны хэмжээ багасан.,OTHER OTHER OTHER PAST
+Монголчуудын хэл зүй сурна.,OTHER OTHER OTHER FUTURE
+Инээдэгийг эр дагана.,OTHER OTHER FUTURE
+Би өгүүлбэр бүтээнэ.,OTHER OTHER FUTURE
+Ноён хүнд тушаана.,OTHER OTHER FUTURE
+Тэдний гэр лүү орно.,OTHER OTHER OTHER FUTURE
+Бүүдэн  сарны нулимс чив чимээгүй мэлмэрнэ.,OTHER OTHER OTHER OTHER OTHER FUTURE
+Бүгээн морьтой өвгөн салхи сөрөн гэлдэрнэ.,OTHER OTHER OTHER OTHER OTHER FUTURE
+Од мичидийн тохиол сарны нулимсыг барна.,OTHER OTHER OTHER OTHER OTHER FUTURE
+Дагуулаад ирэхдээ ирнэ.,OTHER OTHER FUTURE
+би өөдөөс гүйнэ.,OTHER OTHER FUTURE
+хүчтэй нөлөө үзүүлж байдгийг харж болно.,OTHER OTHER OTHER OTHER OTHER FUTURE
+Энэ гуравдугаар сараас эхлэн худалдаанд гарна.,OTHER OTHER OTHER OTHER OTHER FUTURE
+Тэр технологийн дэд бүтцийг шийдэхэд хамтарч ажиллана.,OTHER OTHER OTHER OTHER OTHER OTHER FUTURE
+Энэхүү эрэлтийг хангах чиглэлд хамтарна.,OTHER OTHER OTHER OTHER FUTURE
+хамгийн тодоор буулгаж авах тухайг тооцоолно.,OTHER OTHER OTHER OTHER OTHER FUTURE
+хүрсэн үр дүнгээ багийнхантайгаа хуваалцана.,OTHER OTHER OTHER OTHER FUTURE
+энэ төслөөр хар нүхний бичлэгийг авах болно.,OTHER OTHER OTHER OTHER OTHER OTHER FUTURE
+Яасан гоё юм бэ.,OTHER OTHER OTHER OTHER
+Би тэрэнд хайртай.,OTHER OTHER OTHER
+Хамгийн гоё юм бэ.,OTHER OTHER OTHER OTHER
+Нар сар хоёр юу вэ.,OTHER OTHER OTHER OTHER OTHER
+Учир шалтгаантай байдал юм.,OTHER OTHER OTHER OTHER
+Надтай хамт байсанд баярлалаа.,OTHER OTHER OTHER OTHER
+Энэ л үеэр бид гэр орноо цэгцэлнэ.,OTHER OTHER OTHER OTHER OTHER OTHER FUTURE
+зузаан хувцсаа далд хийнэ.,OTHER OTHER OTHER FUTURE
+цэгцлэх цаг болсон.,OTHER OTHER PAST
+Гэхдээ зөвхөн устгах нь хангалтгүй.,OTHER OTHER OTHER OTHER OTHER
+Тиймээс Back-up хийж хэвшээрэй.,OTHER OTHER OTHER OTHER
+2026 оны дөрөвдүгээр сарын 30-ныг дуустал үргэлжлэнэ.,OTHER OTHER OTHER OTHER OTHER OTHER FUTURE
+Энэ бол энгийн нэг тэмцээн биш.,OTHER OTHER OTHER OTHER OTHER OTHER
+Гэхдээ та сандрах хэрэггүй.,OTHER OTHER OTHER OTHER
+Зурагтаар үзэхтэй харьцуулах ч зүйл биш.,OTHER OTHER OTHER OTHER OTHER OTHER
+Би өглөө эрт босдог.,OTHER OTHER OTHER HABITUAL
+Тэр цай уудаг.,OTHER OTHER HABITUAL
+Бид хамтдаа хичээл хийдэг.,OTHER OTHER OTHER HABITUAL
+Тэр хурдан гүйдэг.,OTHER OTHER HABITUAL
+Би хөгжим сонсдог.,OTHER OTHER HABITUAL
+Тэд кино үздэг.,OTHER OTHER HABITUAL
+Тэр их инээдэг.,OTHER OTHER HABITUAL
+Би зураг зурдаг.,OTHER OTHER HABITUAL
+Хүүхдүүд гадаа тоглодог.,OTHER OTHER HABITUAL
+Багш хичээл заадаг.,OTHER OTHER HABITUAL
+Би орой бүр ном уншдаг.,OTHER OTHER OTHER OTHER HABITUAL
+Тэр найзуудтайгаа уулздаг.,OTHER OTHER HABITUAL
+Бид шинэ зүйл сурдаг.,OTHER OTHER OTHER HABITUAL
+Тэр ажлаа сайн хийдэг.,OTHER OTHER OTHER HABITUAL
+Хүмүүс өглөө кофе уудаг.,OTHER OTHER OTHER HABITUAL
+Сурагчид ангидаа сууж хичээлээ хийдэг.,OTHER OTHER OTHER OTHER HABITUAL
+Би өдөр бүр дасгал хийдэг.,OTHER OTHER OTHER OTHER HABITUAL
+Тэд хамтдаа аялдаг.,OTHER OTHER HABITUAL
+Тэр үргэлж үнэн ярьдаг.,OTHER OTHER OTHER HABITUAL
+Би шинэ үг цээжилдэг.,OTHER OTHER OTHER HABITUAL
+Хүмүүсийн зан төлөв нийгэмд нөлөөлдөг.,OTHER OTHER OTHER OTHER HABITUAL
+Боловсрол хүний ирээдүйд чухал нөлөө үзүүлдэг.,OTHER OTHER OTHER OTHER OTHER HABITUAL
+Судалгаа шинэ мэдлэг бий болгодог.,OTHER OTHER OTHER OTHER HABITUAL
+Технологи амьдралыг хялбар болгодог.,OTHER OTHER OTHER HABITUAL
+Энэ асуудлыг олон талаас нь авч үздэг.,OTHER OTHER OTHER OTHER OTHER OTHER HABITUAL
+Суралцах үйл явц цаг хугацаа шаарддаг.,OTHER OTHER OTHER OTHER OTHER HABITUAL
+Хүмүүс өөр өөрөөр сэтгэдэг.,OTHER OTHER OTHER HABITUAL
+Шинжлэх ухаан тасралтгүй хөгждөг.,OTHER OTHER OTHER HABITUAL
+Багийн ажиллагаа амжилтад хүргэдэг.,OTHER OTHER OTHER HABITUAL
+Туршлага мэдлэгийг нэмэгдүүлдэг.,OTHER OTHER HABITUAL
+Би маргааш сургууль явна.,OTHER OTHER OTHER FUTURE
+Тэр удахгүй ирнэ.,OTHER OTHER FUTURE
+Бид хамт хоол хийнэ.,OTHER OTHER OTHER FUTURE
+Тэд тэмцээнд оролцоно.,OTHER OTHER FUTURE
+Би шинэ ном авна.,OTHER OTHER OTHER FUTURE
+Тэр ажилдаа орно.,OTHER OTHER FUTURE
+Бид удахгүй уулзана.,OTHER OTHER FUTURE
+Тэр хэл сурна.,OTHER OTHER FUTURE
+Би дасгалаа хийнэ.,OTHER OTHER FUTURE
+Тэд аялалд явна.,OTHER OTHER FUTURE
+Би өглөө кофе уудаг.,OTHER OTHER OTHER HABITUAL
+Тэр номын санд суудаг.,OTHER OTHER OTHER HABITUAL
+Бид хамт хичээл хийдэг.,OTHER OTHER OTHER HABITUAL
+Тэр хурдан бичдэг.,OTHER OTHER HABITUAL
+Би орой кино үздэг.,OTHER OTHER OTHER HABITUAL
+Тэд хөгжим сонсдог.,OTHER OTHER HABITUAL
+Тэр англиар ярьдаг.,OTHER OTHER HABITUAL
+Би дасгал тогтмол хийдэг.,OTHER OTHER OTHER HABITUAL
+Багш ойлгомжтой тайлбарладаг.,OTHER OTHER HABITUAL
+Би дэлгүүр ордог.,OTHER OTHER HABITUAL
+Тэр автобусанд суудаг.,OTHER OTHER HABITUAL
+Бид сургууль явдаг.,OTHER OTHER HABITUAL
+Тэр утсаар ярьдаг.,OTHER OTHER HABITUAL
+Би хоол хийдэг.,OTHER OTHER HABITUAL
+Тэд ажилдаа явдаг.,OTHER OTHER HABITUAL
+Тэр зураг авдаг.,OTHER OTHER HABITUAL
+Би бичлэг үздэг.,OTHER OTHER HABITUAL
+Тэд гадаа суудаг.,OTHER OTHER HABITUAL
+Тэр ном бичдэг.,OTHER OTHER HABITUAL
+Би чөлөөт цагаараа ном уншдаг.,OTHER OTHER OTHER OTHER HABITUAL
+Тэр өглөө бүр гүйдэг.,OTHER OTHER OTHER HABITUAL
+Би хүнд хоол өгсөн.,OTHER OTHER OTHER PAST
+Бид хамтдаа төсөл дээр ажилладаг.,OTHER OTHER OTHER OTHER HABITUAL
+Тэр их анхааралтай сонсдог.,OTHER OTHER OTHER HABITUAL
+Би шинэ зүйл туршиж үздэг.,OTHER OTHER OTHER OTHER HABITUAL
+Тэд байнга уулздаг.,OTHER OTHER HABITUAL
+Тэр бүхнийг сайн ойлгодог.,OTHER OTHER OTHER HABITUAL
+Би алдаанаасаа суралцдаг.,OTHER OTHER HABITUAL
+Тэд бие биедээ тусалдаг.,OTHER OTHER OTHER HABITUAL
+Тэр зорилгодоо хүрэхийг хүсдэг.,OTHER OTHER OTHER HABITUAL
+Сургалт хүний чадварыг хөгжүүлдэг.,OTHER OTHER OTHER HABITUAL
+Нийгэм хувь хүнийг төлөвшүүлдэг.,OTHER OTHER OTHER HABITUAL
+Мэдлэг туршлагаар баяждаг.,OTHER OTHER HABITUAL
+Судалгаа бодит баримтад тулгуурладаг.,OTHER OTHER OTHER HABITUAL
+Харилцаа итгэлцлийг бий болгодог.,OTHER OTHER OTHER HABITUAL
+Шийдвэр гаргалт мэдээллээс хамаардаг.,OTHER OTHER OTHER HABITUAL
+Хүмүүс өөр өөр үзэл бодолтой байдаг.,OTHER OTHER OTHER OTHER OTHER HABITUAL
+Суралцах явц тасралтгүй үргэлжилдэг.,OTHER OTHER OTHER HABITUAL
+Амжилт хөдөлмөрөөс шалтгаалдаг.,OTHER OTHER HABITUAL
+Цаг хугацаа үнэ цэнтэй байдаг.,OTHER OTHER OTHER OTHER HABITUAL
+Би өнөөдөр эрт унтана.,OTHER OTHER OTHER FUTURE
+Тэр маргааш ирнэ.,OTHER OTHER FUTURE
+Бид хамт сурна.,OTHER OTHER FUTURE
+Тэд удахгүй эхэлнэ.,OTHER OTHER FUTURE
+Би шинэ зүйл сурна.,OTHER OTHER OTHER FUTURE
+Тэр ажлаа дуусгана.,OTHER OTHER FUTURE
+Бид кино үзнэ.,OTHER OTHER FUTURE
+Тэд тэмцээнд ялна.,OTHER OTHER FUTURE
+Би ном бичнэ.,OTHER OTHER FUTURE
+Тэр хот руу явна.,OTHER OTHER OTHER FUTURE
+Би өглөө ном уншдаг.,OTHER OTHER OTHER HABITUAL
+Тэр цонхоор гадагш хардаг.,OTHER OTHER OTHER HABITUAL
+Бид шинэ санаа боддог.,OTHER OTHER OTHER HABITUAL
+Тэр алдаа гаргадаггүй.,OTHER OTHER OTHER
+Би удаан алхдаг.,OTHER OTHER HABITUAL
+Тэд хамтдаа дасгал хийдэг.,OTHER OTHER OTHER HABITUAL
+Тэр үнэн зөв ярьдаг.,OTHER OTHER OTHER HABITUAL
+Би тэмдэглэл хөтөлдөг.,OTHER OTHER HABITUAL
+Тэд асуулт их асуудаг.,OTHER OTHER OTHER HABITUAL
+Тэр асуудлыг шийддэг.,OTHER OTHER HABITUAL
+Би хөгжим сонсож амардаг.,OTHER OTHER OTHER HABITUAL
+Тэр өдөр бүр тэмдэглэл бичдэг.,OTHER OTHER OTHER OTHER HABITUAL
+Бид баг болж ажилладаг.,OTHER OTHER OTHER HABITUAL
+Тэр бусдад зөвлөгөө өгдөг.,OTHER OTHER OTHER HABITUAL
+Би хичээлдээ анхаарлаа төвлөрүүлдэг.,OTHER OTHER OTHER HABITUAL
+Тэд цаг баримталдаг.,OTHER OTHER HABITUAL
+Тэр шинэ технологи судалдаг.,OTHER OTHER OTHER HABITUAL
+Би алдаагаа засдаг.,OTHER OTHER HABITUAL
+Тэд зорилгоо тодорхойлдог.,OTHER OTHER HABITUAL
+Тэр туршлагаасаа хуваалцдаг.,OTHER OTHER HABITUAL
+Би өчигдөр ном уншсан.,OTHER OTHER OTHER PAST
+Тэр найзтайгаа уулзсан.,OTHER OTHER PAST
+Бид хамт кино үзсэн.,OTHER OTHER OTHER PAST
+Тэр ажлаа амжилттай дуусгасан.,OTHER OTHER OTHER PAST
+Би шинэ үг сурсан.,OTHER OTHER OTHER PAST
+Тэд тэмцээнд оролцсон.,OTHER OTHER PAST
+Тэр асуудлыг шийдсэн.,OTHER OTHER PAST
+Бид олон зүйл ойлгосон.,OTHER OTHER OTHER PAST
+Би цагтаа ирсэн.,OTHER OTHER PAST
+Тэр сонирхолтой зүйл ярьсан.,OTHER OTHER OTHER PAST
+Боловсрол нийгмийг өөрчилдөг.,OTHER OTHER HABITUAL
+Судалгаа шинэ мэдлэг бий болгодог.,OTHER OTHER OTHER OTHER HABITUAL
+Хүмүүс туршлагаасаа суралцдаг.,OTHER OTHER HABITUAL
+Шинэ санаа хөгжлийг дэмждэг.,OTHER OTHER OTHER HABITUAL
+Харилцаа ойлголцлыг нэмэгдүүлдэг.,OTHER OTHER HABITUAL
+Мэдээлэл шийдвэрт нөлөөлдөг.,OTHER OTHER HABITUAL
+Цаг хугацаа бүхнийг өөрчилдөг.,OTHER OTHER OTHER HABITUAL
+Хичээл зүтгэл амжилтад хүргэдэг.,OTHER OTHER OTHER HABITUAL
+Багийн ажиллагаа үр дүнг сайжруулдаг.,OTHER OTHER OTHER OTHER HABITUAL
+Суралцах хүсэл ирээдүйг тодорхойлдог.,OTHER OTHER OTHER HABITUAL
+Би маргааш эрт босно.,OTHER OTHER OTHER FUTURE
+Тэр удахгүй эхэлнэ.,OTHER OTHER FUTURE
+Бид хамт аялна.,OTHER OTHER FUTURE
+Тэр шинэ төсөл эхлүүлнэ.,OTHER OTHER OTHER FUTURE
+Би илүү сайн суралцана.,OTHER OTHER OTHER FUTURE
+Тэд шийдвэр гаргана.,OTHER OTHER FUTURE
+Тэр илтгэл тавина.,OTHER OTHER FUTURE
+Бид хамтдаа ялна.,OTHER OTHER FUTURE
+Би шинэ ур чадвар эзэмшинэ.,OTHER OTHER OTHER OTHER FUTURE
+Тэр хотод ажиллана.,OTHER OTHER FUTURE
+Би өглөө эрт босдог.,OTHER OTHER OTHER HABITUAL
+Тэр кофе уудаг.,OTHER OTHER HABITUAL
+Бид хамт хичээл хийдэг.,OTHER OTHER OTHER HABITUAL
+Тэр хурдан бичдэг.,OTHER OTHER HABITUAL
+Би орой ном уншдаг.,OTHER OTHER OTHER HABITUAL
+Тэд гадаа тоглодог.,OTHER OTHER HABITUAL
+Тэр багшийн үгийг анхааралтай сонсдог.,OTHER OTHER OTHER OTHER HABITUAL
+Би шинэ санаа боддог.,OTHER OTHER OTHER HABITUAL
+Тэд өдөр бүр уулздаг.,OTHER OTHER OTHER HABITUAL
+Тэр ажлаа сайн хийдэг.,OTHER OTHER OTHER HABITUAL
+Би өглөө дасгал хийдэг.,OTHER OTHER OTHER HABITUAL
+Тэр хөгжим сонсдог.,OTHER OTHER HABITUAL
+Бид хамтдаа ярилцдаг.,OTHER OTHER HABITUAL
+Тэр үнэн зөв хэлдэг.,OTHER OTHER OTHER HABITUAL
+Би тэмдэглэл бичдэг.,OTHER OTHER HABITUAL
+Тэд аялал төлөвлөдөг.,OTHER OTHER HABITUAL
+Тэр зураг авдаг.,OTHER OTHER HABITUAL
+Би найздаа тусалдаг.,OTHER OTHER HABITUAL
+Тэд хичээлээ давтдаг.,OTHER OTHER HABITUAL
+Тэр асуулт асуудаг.,OTHER OTHER HABITUAL
+Би өглөө цай уудаг.,OTHER OTHER OTHER HABITUAL
+Тэр ажилдаа явдаг.,OTHER OTHER HABITUAL
+Бид хамт суралцдаг.,OTHER OTHER HABITUAL
+Тэр хурдан ойлгодог.,OTHER OTHER HABITUAL
+Би орой кино үздэг.,OTHER OTHER OTHER HABITUAL
+Тэд гадаа алхдаг.,OTHER OTHER HABITUAL
+Тэр анхааралтай сонсдог.,OTHER OTHER HABITUAL
+Би шинэ зүйл сурдаг.,OTHER OTHER OTHER HABITUAL
+Тэд найзуудтайгаа уулздаг.,OTHER OTHER HABITUAL
+Тэр ажлаа сайн гүйцэтгэдэг.,OTHER OTHER OTHER HABITUAL
+Би дасгал хийдэг.,OTHER OTHER HABITUAL
+Тэр хөгжим тоглодог.,OTHER OTHER HABITUAL
+Бид хамтдаа инээдэг.,OTHER OTHER HABITUAL
+Тэр үнэн ярьдаг.,OTHER OTHER HABITUAL
+Би тэмдэглэл хөтөлдөг.,OTHER OTHER HABITUAL
+Тэд аялалд явдаг.,OTHER OTHER HABITUAL
+Тэр зураг зурдаг.,OTHER OTHER HABITUAL
+Би тусламж үзүүлдэг.,OTHER OTHER HABITUAL
+Тэд хичээлээ давтдаг.,OTHER OTHER HABITUAL
+Тэр асуулт тавьдаг.,OTHER OTHER HABITUAL
+Би өчигдөр ном уншсан.,OTHER OTHER OTHER PAST
+Тэр найзтайгаа уулзсан.,OTHER OTHER PAST
+Бид кино үзсэн.,OTHER OTHER PAST
+Тэр ажлаа дуусгасан.,OTHER OTHER PAST
+Би шинэ үг сурсан.,OTHER OTHER OTHER PAST
+Тэд тэмцээнд оролцсон.,OTHER OTHER PAST
+Тэр асуудлыг шийдсэн.,OTHER OTHER PAST
+Бид их зүйл ойлгосон.,OTHER OTHER OTHER PAST
+Би цагтаа ирсэн.,OTHER OTHER PAST
+Тэр сонирхолтой зүйл ярьсан.,OTHER OTHER OTHER PAST
+Би багштайгаа ярилцсан.,OTHER OTHER PAST
+Тэр шинэ төсөл эхлүүлсэн.,OTHER OTHER OTHER PAST
+Бид хамт ажилласан.,OTHER OTHER PAST
+Тэр олон ном уншсан.,OTHER OTHER OTHER PAST
+Би захиа бичсэн.,OTHER OTHER PAST
+Тэд хотод очсон.,OTHER OTHER PAST
+Тэр их зүйл сурсан.,OTHER OTHER OTHER PAST
+Бид зорилгоо тодорхойлсон.,OTHER OTHER PAST
+Би алдаагаа ойлгосон.,OTHER OTHER PAST
+Тэр шийдвэр гаргасан.,OTHER OTHER PAST
+Би өнгөрсөн долоо хоногт аялсан.,OTHER OTHER OTHER OTHER PAST
+Тэр шинэ найзтай болсон.,OTHER OTHER OTHER PAST
+Бид хамт хичээл хийсэн.,OTHER OTHER OTHER PAST
+Тэр шалгалт өгсөн.,OTHER OTHER PAST
+Би шинэ ном худалдаж авсан.,OTHER OTHER OTHER OTHER PAST
+Тэд тоглолт үзсэн.,OTHER OTHER PAST
+Тэр гэртээ амарсан.,OTHER OTHER PAST
+Би дасгал хийсэн.,OTHER OTHER PAST
+Тэд найздаа тусалсан.,OTHER OTHER PAST
+Тэр захидал бичсэн.,OTHER OTHER PAST
+Би зураг авсан.,OTHER OTHER PAST
+Тэр шинэ санаа олсон.,OTHER OTHER OTHER PAST
+Бид хамтдаа инээсэн.,OTHER OTHER PAST
+Тэр олон асуулт асуусан.,OTHER OTHER OTHER PAST
+Би туршлага хуримтлуулсан.,OTHER OTHER PAST
+Тэд их зүйл сурсан.,OTHER OTHER OTHER PAST
+Тэр асуудал шийдсэн.,OTHER OTHER PAST
+Би маргааш эрт босно.,OTHER OTHER OTHER FUTURE
+Тэр удахгүй ирнэ.,OTHER OTHER FUTURE
+Бид хамт сурна.,OTHER OTHER FUTURE
+Тэд аялалд явна.,OTHER OTHER FUTURE
+Би шинэ зүйл туршина.,OTHER OTHER OTHER FUTURE
+Тэр ажлаа эхлүүлнэ.,OTHER OTHER FUTURE
+Бид кино үзнэ.,OTHER OTHER FUTURE
+Би ном бичнэ.,OTHER OTHER FUTURE
+Тэр хот руу явна.,OTHER OTHER OTHER FUTURE
+Би шинэ ур чадвар эзэмшинэ.,OTHER OTHER OTHER OTHER FUTURE
+Тэр илтгэл тавина.,OTHER OTHER FUTURE
+Бид амжилтад хүрнэ.,OTHER OTHER FUTURE
+Тэд шинэ санаа гаргана.,OTHER OTHER OTHER FUTURE
+Би илүү сайн суралцана.,OTHER OTHER OTHER FUTURE
+Тэр баг удирдана.,OTHER OTHER FUTURE
+Бид хамтын ажиллагаагаа өргөжүүлнэ.,OTHER OTHER OTHER FUTURE
+Тэд зорилгодоо хүрнэ.,OTHER OTHER FUTURE
+Би ирээдүйгээ төлөвлөнө.,OTHER OTHER FUTURE
+Тэр шинэ боломж хайна.,OTHER OTHER OTHER FUTURE
+Би удахгүй аялна.,OTHER OTHER FUTURE
+Тэр шинэ ажилд орно.,OTHER OTHER OTHER FUTURE
+Бид хамт төсөл эхлүүлнэ.,OTHER OTHER OTHER FUTURE
+Тэд сургалтанд хамрагдана.,OTHER OTHER FUTURE
+Би шинэ найзтай болно.,OTHER OTHER OTHER FUTURE
+Тэр туршлага хуримтлуулна.,OTHER OTHER FUTURE
+Бид хамтдаа өснө.,OTHER OTHER FUTURE
+Тэд амжилтад хүрнэ.,OTHER OTHER FUTURE
+Би шинэ ур чадвар сурна.,OTHER OTHER OTHER OTHER FUTURE
+Тэр баг бүрдүүлнэ.,OTHER OTHER FUTURE
+Бид зорилго тавина.,OTHER OTHER FUTURE
+Тэд төлөвлөгөө гаргана.,OTHER OTHER FUTURE
+Би илүү сайн болно.,OTHER OTHER OTHER FUTURE
+Тэр шийдвэр гаргана.,OTHER OTHER FUTURE
+Бид хамт ялна.,OTHER OTHER FUTURE
+Тэд боломж ашиглана.,OTHER OTHER FUTURE
+Би ирээдүйд итгэнэ.,OTHER OTHER FUTURE
+Тэр амжилт бүтээнэ.,OTHER OTHER FUTURE
+Боловсрол хүнийг хөгжүүлдэг.,OTHER OTHER HABITUAL
+Судалгаа шинэ мэдлэг бий болгодог.,OTHER OTHER OTHER OTHER HABITUAL
+Хүмүүс туршлагаасаа суралцдаг.,OTHER OTHER HABITUAL
+Харилцаа ойлголцлыг нэмэгдүүлдэг.,OTHER OTHER HABITUAL
+Цаг хугацаа үнэ цэнтэй байдаг.,OTHER OTHER OTHER OTHER HABITUAL
+Амжилт хөдөлмөрөөс шалтгаалдаг.,OTHER OTHER HABITUAL
+Багийн ажиллагаа үр дүнг сайжруулдаг.,OTHER OTHER OTHER OTHER HABITUAL
+Суралцах хүсэл ирээдүйг тодорхойлдог.,OTHER OTHER OTHER HABITUAL
+Мэдээлэл шийдвэрт нөлөөлдөг.,OTHER OTHER HABITUAL
+Шинэ санаа хөгжлийг дэмждэг.,OTHER OTHER OTHER HABITUAL
+Хичээл зүтгэл үр дүн авчирдаг.,OTHER OTHER OTHER OTHER HABITUAL
+Туршлага чадварыг нэмэгдүүлдэг.,OTHER OTHER HABITUAL
+Боловсрол боломжийг нээдэг.,OTHER OTHER HABITUAL
+Судалгаа асуудлыг шийддэг.,OTHER OTHER HABITUAL
+Харилцаа итгэл бий болгодог.,OTHER OTHER OTHER HABITUAL
+Хүмүүс хамтдаа хөгждөг.,OTHER OTHER HABITUAL
+Цаг хугацаа хурдан өнгөрдөг.,OTHER OTHER OTHER HABITUAL
+Амжилт тэвчээр шаарддаг.,OTHER OTHER HABITUAL
+Баг амжилт бүтээдэг.,OTHER OTHER HABITUAL
+Ирээдүй гэрэлтэй байдаг.,OTHER OTHER HABITUAL
+Нийгэм хувь хүнийг төлөвшүүлдэг.,OTHER OTHER OTHER HABITUAL
+Соёл хүмүүжлийг бий болгодог.,OTHER OTHER OTHER HABITUAL
+Хүмүүс хамтран ажилладаг.,OTHER OTHER HABITUAL
+Боловсрол ирээдүйг тодорхойлдог.,OTHER OTHER HABITUAL
+Судалгаа шинжилгээ хөгжлийг дэмждэг.,OTHER OTHER OTHER HABITUAL
+Харилцаа ойлголтыг гүнзгийрүүлдэг.,OTHER OTHER HABITUAL
+Цаг хугацаа бүхнийг өөрчилдөг.,OTHER OTHER OTHER HABITUAL
+Амжилт зорилготой холбоотой байдаг.,OTHER OTHER OTHER HABITUAL
+Багийн ажиллагаа үр дүнг нэмэгдүүлдэг.,OTHER OTHER OTHER OTHER HABITUAL
+Суралцах үйл явц үргэлжилдэг.,OTHER OTHER OTHER HABITUAL
+Мэдлэг үнэ цэнтэй байдаг.,OTHER OTHER OTHER HABITUAL
+Туршлага амьдралыг баяжуулдаг.,OTHER OTHER HABITUAL
+Хүмүүс бие биедээ тусалдаг.,OTHER OTHER OTHER HABITUAL
+Нийгэм тогтвортой хөгждөг.,OTHER OTHER HABITUAL
+Боловсрол чанарыг сайжруулдаг.,OTHER OTHER HABITUAL
+Судалгаа бодит байдалд тулгуурладаг.,OTHER OTHER OTHER HABITUAL
+Харилцаа чухал үүрэгтэй байдаг.,OTHER OTHER OTHER HABITUAL
+Цаг хугацаа хязгаарлагдмал байдаг.,OTHER OTHER OTHER HABITUAL
+Амжилт хөдөлмөр шаарддаг.,OTHER OTHER HABITUAL
+Би өдөр бүр суралцдаг.,OTHER OTHER OTHER HABITUAL
+Тэр шинэ зүйл туршдаг.,OTHER OTHER OTHER HABITUAL
+Бид хамтдаа өсдөг.,OTHER OTHER HABITUAL
+Тэд амжилтад хүрдэг.,OTHER OTHER HABITUAL
+Би алдаанаасаа суралцдаг.,OTHER OTHER HABITUAL
+Тэр туршлагаа хуваалцдаг.,OTHER OTHER HABITUAL
+Бид зорилгоо тодорхойлдог.,OTHER OTHER HABITUAL
+Тэд төлөвлөгөө гаргадаг.,OTHER OTHER HABITUAL
+Би шинэ санаа гаргадаг.,OTHER OTHER OTHER HABITUAL
+Тэр асуудал шийддэг.,OTHER OTHER HABITUAL
+Бид хамтран ажилладаг.,OTHER OTHER HABITUAL
+Тэд бие биедээ тусалдаг.,OTHER OTHER OTHER HABITUAL
+Би урагш тэмүүлдэг.,OTHER OTHER HABITUAL
+Тэр амжилт бүтээдэг.,OTHER OTHER HABITUAL
+Бид ирээдүйгээ бүтээдэг.,OTHER OTHER HABITUAL
+Би итгэлтэй байдаг.,OTHER OTHER HABITUAL
+Тэр зоригтой байдаг.,OTHER OTHER HABITUAL
+Бид хамтдаа ялдаг.,OTHER OTHER HABITUAL
+Би өнгөрсөнд алдаа гаргасан.,OTHER OTHER OTHER PAST
+Тэр туршлагаас суралцсан.,OTHER OTHER PAST
+Бид хамтдаа даван туулсан.,OTHER OTHER OTHER PAST
+Тэд шинэ боломж олсон.,OTHER OTHER OTHER PAST
+Би илүү сайн болсон.,OTHER OTHER OTHER PAST
+Тэр зорилгоо тодорхойлсон.,OTHER OTHER PAST
+Бид төлөвлөгөө боловсруулсан.,OTHER OTHER PAST
+Тэд амжилтад хүрсэн.,OTHER OTHER PAST
+Би шинэ зам сонгосон.,OTHER OTHER OTHER PAST
+Тэр шийдвэр гаргасан.,OTHER OTHER PAST
+Бид хамтран ажилласан.,OTHER OTHER PAST
+Тэд олон зүйл ойлгосон.,OTHER OTHER OTHER PAST
+Би итгэл олсон.,OTHER OTHER PAST
+Тэр урам зориг авсан.,OTHER OTHER OTHER PAST
+Бид ирээдүйгээ бүтээсэн.,OTHER OTHER PAST
+Би өөрийгөө сайжруулсан.,OTHER OTHER PAST
+Тэр алдаагаа зассан.,OTHER OTHER PAST
+Бид хамт ялсан.,OTHER OTHER PAST
