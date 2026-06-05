@@ -1,4 +1,4 @@
-# Localized Language AI Development: Small Data Efficiency
+# Localized Low-resource Language AI Development: Small Data Efficiency
 
 > An independent research into language model development for Mongolian, a low-resource language, using small data approaches and mixture of experts techniques.
 
